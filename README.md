@@ -1,7 +1,6 @@
 - 👋 Howdy, my name is Dylan Marvel.
-- 👀 I’m a full stack JavaScript developer interested in designing novel and compelling experiences on the web.
-- 🌱 I’m currently learning ... well ... a little bit of everything!
-- 💞️ I’m looking to collaborate on new and interesting projects.
+- I’m working as full-stack developer @ [Shedd Capital, LLC](https://www.sheddcapital.com/) building software to support our many M&A services.
+- In my free time I also help out my friends @ [HouseNovel](https://housenovel.com/) with tech odds and ends.
 - 📫 Interested in connecting? Email me at marvel.dylan.james@gmail.com
 
 <!---
